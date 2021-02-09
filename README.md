@@ -1,5 +1,5 @@
 # Frontend fiktív megrendelés
-## Angulat gyakorló feladat a tanulócsoport számára
+## Angular gyakorló feladat a tanulócsoport számára
 
 ### Szervusz!
 Egy közös ismerősünktől, Cserkó Józsitól kaptam meg az elérhetőségedet. Nekem egy jó webesre lenne szükségem és ő téged ajánlott.
