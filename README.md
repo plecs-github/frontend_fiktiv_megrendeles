@@ -6,7 +6,8 @@ Rögtön a tárgyra is térnék. Szájmaszkok gyártásával és forgalmazásáv
 Nincs szükségem tehát semmi bonyolult dologra. A következő lenne az elképzelésem:
 
 - A fejlécben egy egyszerű képlapozóra gondoltam, amelyhez adok is neked három képet!
-- Alatta szeretném egyik kedvenc íróm idézetét elhelyezni! Ezt majd lentebb megtalálod.
+- Menüre nem lesz szükség, hisz egy egyszerű, egy lapos oldalról lesz szó.
+- A fejléc alatt szeretném egyik kedvenc íróm idézetét elhelyezni! Ezt majd lentebb megtalálod.
 - Ezt követően jöhetne a négy maszk, amelyekről megjelenne egy kép, a neve, egy rövidke szöveg és az ára!
 - Annyit kérnék még, hogy az asztali gépemen négy maszk jelenjen meg egymás mellett, a tabletemen már csak kettő férjen el egy sorban, a mobilomon pedig egymás alatt, egyesével szerepeljenek a maszkok!
 - Egy kis egyszerű láblécet is szeretnék még legalulra egy egyszerű szöveggel! Lentebb ezt is megtalálod majd.
