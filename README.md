@@ -10,7 +10,7 @@ Nincs szükségem tehát semmi bonyolult dologra. A következő lenne az elképz
 - Ezt követően jöhetne a négy maszk, amelyekről megjelenne egy kép, a neve, egy rövidke szöveg és az ára!
 - Annyit kérnék még, hogy az asztali gépemen négy maszk jelenjen meg egymás mellett, a tabletemen már csak kettő férjen el egy sorban, a mobilomon pedig egymás alatt, egyesével szerepeljenek a maszkok!
 - Egy kis egyszerű láblécet is szeretnék még legalulra egy egyszerű szöveggel! Lentebb ezt is megtalálod majd.
-- Összedobtam egy vázlatot, amely mentén tudsz majd dolgozni. Ez nem egy kőbe védett design, az ízlésedre bízom a megvalósítást. Annyit kérek csak, hogy a mellékelt képeket használd a fejléchez és a termékekhez!
+- Összedobtam egy vázlatot, amely mentén tudsz majd dolgozni. Ez nem egy kőbe vésett design, az ízlésedre bízom a megvalósítást. Annyit kérek csak, hogy a mellékelt képeket használd a fejléchez és a termékekhez!
 
 Említettem, hogy hetente frissülne ez az oldal. Sajnos nekem nem lesz időm ezzel foglalkozni, ezért szerkesztő felületre sem lesz szükségem. Ellenben kérhetem-e, hogy a frissítéseket elvégezd majd nekem?
 Józsi említette, hogy felvértezett a megfelelő tudással és még annyit mondott, hogy adjam át neked az alábbi üzenetet:
