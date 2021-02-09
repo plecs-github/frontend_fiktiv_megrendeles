@@ -1,6 +1,7 @@
 # Frontend fiktív megrendelés
+## Angulat gyakorló feladat a tanulócsoport számára
 
-## Szervusz!
+### Szervusz!
 Egy közös ismerősünktől, Cserkó Józsitól kaptam meg az elérhetőségedet. Nekem egy jó webesre lenne szükségem és ő téged ajánlott.
 Rögtön a tárgyra is térnék. Szájmaszkok gyártásával és forgalmazásával foglalkozom és szükségem lenne egy egyszerű, egy lapos weboldalra, amelyen minden héten négy darab akciós termékünket ajánlanánk.
 Nincs szükségem tehát semmi bonyolult dologra. A következő lenne az elképzelésem:
