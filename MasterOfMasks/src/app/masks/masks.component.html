@@ -1,12 +1,16 @@
-<div *ngFor="let mask of maskList$ | async" class="card" style="width: 18rem;">
-  <img class="card-img-top" [src]="mask.imgurl" alt=" Card image cap">
-  <div class="card-body">
-    <h5 class="card-title">{{ mask.name }}</h5>
-    <p class="card-text">{{ mask.description }}
-    </p>
-    <p class="card-text">{{ mask.price }},-
-    </p>
+<div class="container col-8 offset-2">
+  <div class="row d-flex flex-row justify-content-center">
+    <div
+      *ngFor="let mask of maskList$ | async"
+      class="card m-2"
+      style="width: 14rem"
+    >
+      <img class="card-img-top" [src]="mask.imgurl" alt=" Card image cap" />
+      <div class="card-body">
+        <h5 class="card-title name">{{ mask.name }}</h5>
+        <p class="card-text">{{ mask.description }}</p>
+        <p class="card-text price">{{ mask.price }},-</p>
+      </div>
+    </div>
   </div>
 </div>
-
-
